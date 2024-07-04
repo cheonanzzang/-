@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\D411\Desktop\수강생411\임경민\Project0704\소스.cpp(157,23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\D411\Desktop\수강생411\임경민\Project0704\소스.cpp(152,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\D411\Desktop\수강생411\임경민\Project0704\소스.cpp(154,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\D411\Desktop\수강생411\임경민\Project0704\소스.cpp(156,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project0704.vcxproj -> C:\Users\D411\Desktop\수강생411\임경민\Project0704\x64\Debug\Project0704.exe
