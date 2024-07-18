@@ -1,0 +1,9 @@
+﻿  소스.cpp
+C:\Users\D411\Desktop\수강생411\임경민\Project0718\소스.cpp(347,19): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\D411\Desktop\수강생411\임경민\Project0718\소스.cpp(349,19): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\D411\Desktop\수강생411\임경민\Project0718\소스.cpp(351,19): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\D411\Desktop\수강생411\임경민\Project0718\소스.cpp(353,19): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\D411\Desktop\수강생411\임경민\Project0718\소스.cpp(355,19): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\D411\Desktop\수강생411\임경민\Project0718\소스.cpp(340,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\D411\Desktop\수강생411\임경민\Project0718\소스.cpp(343,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project0718.vcxproj -> C:\Users\D411\Desktop\수강생411\임경민\Project0718\x64\Debug\Project0718.exe
